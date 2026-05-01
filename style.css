@@ -155,6 +155,12 @@ h2 :hover{
     padding: 20px 0;
 }
 
+.email{
+    width: 60%;
+    border-bottom: #625050;
+    background-color: none;
+}
+
 /* .newsletter {
     
 } */
